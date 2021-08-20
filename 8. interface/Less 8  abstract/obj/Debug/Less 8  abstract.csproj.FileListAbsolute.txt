@@ -1,0 +1,7 @@
+F:\обучение С#\программирование в информационных системах\Lesson 8 interface\Less 8  abstract\bin\Debug\Less 8  abstract.exe.config
+F:\обучение С#\программирование в информационных системах\Lesson 8 interface\Less 8  abstract\bin\Debug\Less 8  abstract.exe
+F:\обучение С#\программирование в информационных системах\Lesson 8 interface\Less 8  abstract\bin\Debug\Less 8  abstract.pdb
+F:\обучение С#\программирование в информационных системах\Lesson 8 interface\Less 8  abstract\obj\Debug\Less 8  abstract.csprojAssemblyReference.cache
+F:\обучение С#\программирование в информационных системах\Lesson 8 interface\Less 8  abstract\obj\Debug\Less 8  abstract.csproj.CoreCompileInputs.cache
+F:\обучение С#\программирование в информационных системах\Lesson 8 interface\Less 8  abstract\obj\Debug\Less 8  abstract.exe
+F:\обучение С#\программирование в информационных системах\Lesson 8 interface\Less 8  abstract\obj\Debug\Less 8  abstract.pdb
